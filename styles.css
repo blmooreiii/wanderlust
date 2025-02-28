@@ -50,20 +50,7 @@ nav ul li a {
     font-size: 18px;
 }
 
-/* Hero Section */
-.hero {
-    background-image: url('images/majorca-cove.png');
-    background-size: cover;
-    background-position: center;
-    text-align: center;
-    padding: 50px 20px;
-    color: white;
-}
 
-.hero h1 {
-    font-size: 32px;
-    margin-bottom: 10px;
-}
 
 /* Main Content */
 #main-content {
@@ -153,8 +140,7 @@ footer a {
         flex-direction: row;
         justify-content: space-around;
     }
-    .hero h1 {
-        font-size: 48px;
+   
     }
     #img-grid {
         display: flex;
@@ -181,7 +167,5 @@ footer a {
     .container {
         width: 80%;
     }
-    .hero {
-        padding: 80px 20px;
-    }
+    
 }
